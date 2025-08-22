@@ -160,4 +160,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Testnet**: `ST2ACK6TQCGTF9PPQ8588YWCY7ZY43E3THV0RS2KZ.dynamicNftContract`
 
-![alt text](<Screenshot 2025-08-22 at 1.43.58 PM.png>)
+**Screenshot**: 
+<img width="1440" height="932" alt="Screenshot 2025-08-22 at 1 43 58 PM" src="https://github.com/user-attachments/assets/ecc9fcbb-6084-4b87-b427-92484242d0c7" />
+
